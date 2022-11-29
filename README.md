@@ -4,6 +4,11 @@
 A simple dice game.
 
 
+## Demo
+
+Find my project [here](https://mohitsaraff.github.io/Dicee/) !
+
+
 ## Tech Stack
 
 HTML, CSS, JavaScript
